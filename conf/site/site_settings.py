@@ -19,7 +19,7 @@ ADMINS = [
 DEFAULT_ADMIN_PASSWORD = SECRET_KEY
 
 # Set the site domain.
-SITE_DOMAIN = "foo.com"
+SITE_DOMAIN = "157.230.210.80"
 
 SITE_ID = 1
 HTTP_PORT = ''
